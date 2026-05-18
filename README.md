@@ -6,7 +6,6 @@
 
 PDFCut Studio 是一个基于 [Briss 2.0](https://github.com/mbaeuerle/Briss-2.0) 修改的开源 PDF 可视化裁剪工具。它面向 Windows 便携使用场景，内置运行时，支持鼠标可视化框选裁剪区域，并提供“安全裁剪：只输出可见区域”模式：保留裁剪区域内的可复制文字，同时移除裁剪区域外的 PDF 内容。
 
-PDFCut Studio is a modified open-source PDF cropper based on [Briss 2.0](https://github.com/mbaeuerle/Briss-2.0). It provides a portable Windows package, a bilingual Chinese/English launcher, visual mouse-based crop selection, and a secure visible-area-only crop mode that keeps text inside the crop selectable while removing content outside the crop.
 
 ## 主要功能
 
